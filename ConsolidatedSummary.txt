@@ -1,0 +1,7 @@
+Invoice Summary:
+Customer Name               Total (INR)
+---------------------------------------------
+Harsha                    INR900.00
+---------------------------------------------
+Total Invoices: 1
+Total Sales: INR900.00
